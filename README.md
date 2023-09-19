@@ -10,3 +10,6 @@ https://github.com/miguelgrinberg/flasky.
 
 ### Activity 2:
 ![Activity 2](screenshots/activity2.png)
+
+### Activity 3:
+![Activity 3](screenshots/activity3.png)
