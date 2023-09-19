@@ -6,4 +6,7 @@ Note: This repo is a clone of
 https://github.com/miguelgrinberg/flasky.
 
 ### Activity 1:
-![Activity1](screenshots/activity1.png)
+![Activity 1](screenshots/activity1.png)
+
+### Activity 2:
+![Activity 2](screenshots/activity2.png)
