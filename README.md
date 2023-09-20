@@ -13,3 +13,12 @@ https://github.com/miguelgrinberg/flasky.
 
 ### Activity 3:
 ![Activity 3](screenshots/activity3.png)
+
+### Activity 4:
+![Alt text](screenshots/activity4-1.png)
+
+![Alt text](screenshots/activity4-2.png)
+
+![Alt text](screenshots/activity4-3.png)
+
+![Alt text](screenshots/activity4-4.png)
