@@ -9,6 +9,7 @@ https://github.com/miguelgrinberg/flasky.
 ![Activity2](/screenshots/lab3_activity_2.png)
 
 ### Activity 3:
+![Activity3](/screenshots/lab3_activity3.png)
 
 ### Activity 4:
 
